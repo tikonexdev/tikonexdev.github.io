@@ -47,7 +47,7 @@ border: 5px solid rgb(179, 255, 0);
 }
 a
 {color: red;
- text-decoration: none;
+ text-decoration: none; 
  transition:color 1s;
 }
 a:visited
@@ -62,3 +62,8 @@ a:hover
     text-decoration: underline;
     transition:color 1s;
 }   
+
+#so
+{
+font-size: 200%;
+}
