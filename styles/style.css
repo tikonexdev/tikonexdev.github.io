@@ -63,7 +63,9 @@ a:hover
     transition:color 1s;
 }   
 #si
-{display: inline;}
+{
+ display: inline-block;
+}
 #so
 {
 font-size: 200%;
