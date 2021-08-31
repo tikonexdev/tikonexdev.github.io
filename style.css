@@ -1,0 +1,39 @@
+*
+{font-family: 'Karla', sans-serif;}
+#h
+{color: crimson;}
+.no
+{
+font-size: 80px;
+}
+body 
+{background-color: rgb(0, 0, 0);}
+span {display: block;}
+.text
+{color: white;
+margin-top: 10px;
+
+}
+@media handheld, only screen and (max-width: 560px), only screen and (max-device-width: 480px)  {
+    #hoofdcollumn {margin: 10px 5%; width:90%}
+}
+.pogru
+{font-weight: 700;
+color: white;
+}
+.prze
+{font-style: italic;
+ color: white;
+}
+.pod 
+{text-decoration: underline;
+ color: white;
+}
+#jak
+{color: red;}
+#hd
+{color: seashell;
+background-color: red;
+padding: 30;
+border: 5px solid red;
+}
