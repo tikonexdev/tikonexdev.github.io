@@ -47,17 +47,17 @@ border: 5px solid rgb(179, 255, 0);
 a
 {color: red;
  text-decoration: none;
- transition:color 6s;
+ transition:color 1s;
 }
 a:visited
 {
  color: red;
  text-decoration: none;
- transition: color 6s;
+ transition: color 1s;
 }
 a:hover
 {
     color:royalblue ;
     text-decoration: underline;
-    transition:color 6s;
+    transition:color 1s;
 }
