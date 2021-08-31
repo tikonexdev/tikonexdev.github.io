@@ -61,9 +61,4 @@ a:hover
     color:royalblue ;
     text-decoration: underline;
     transition:color 1s;
-}
-#s
-{
-    width: auto;
-    height: auto;
-}
+}   
