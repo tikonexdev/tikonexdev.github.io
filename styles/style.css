@@ -69,10 +69,13 @@ a:hover
 #si
 {
  display: inline-block;
-}
-#so
+}#so
 {
 font-size: 200%;
 text-align: left;
+color: seashell;
+}
+#nav
+{
 color: seashell;
 }
