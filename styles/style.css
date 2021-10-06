@@ -35,7 +35,10 @@ color: seashell;
  color: seashell;
 }
 #jak
-{color: red;}
+{color: red;
+    font-size: 40px
+}
+
 #hd
 {color: seashell;
 background-color: red;
