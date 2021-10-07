@@ -1,0 +1,36 @@
+.text
+{
+    font-size: 40px;
+    color: red;
+    margin-top: 40px;
+    
+}
+body
+{
+    background-color: blue;
+    background-attachment: fixed;
+    background-size: auto;
+    background-repeat: repeat;
+}
+*
+{
+    font-family: 'Quicksand', sans-serif;
+}
+a
+{
+    color: red;
+    transition: 1s;
+    text-decoration: none;
+}
+a:visited
+{
+    color: red;
+    transition: 1s;
+    text-decoration: none;
+}
+a:hover
+{
+    color: seagreen;
+    transition: 1s;
+    text-decoration: none;
+}
