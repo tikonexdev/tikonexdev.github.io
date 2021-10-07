@@ -1,0 +1,54 @@
+a
+{
+    color: salmon;
+    transition: 1s;
+    text-decoration: none;
+}
+a:visited
+{
+    color: salmon;
+    transition: 1s;
+    text-decoration: none;
+}
+a:hover
+{
+    color: seagreen;
+    transition: 1s;
+    text-decoration: none;
+}
+body 
+{
+    background-color:black;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+.text
+{   margin-top: 10x;
+    color:seashell;
+    
+}
+* 
+{
+    font-family: 'Quicksand', sans-serif;
+}
+ul
+{
+   border: 5px solid blue;
+    color: brown;
+    padding: 40px;
+}
+ol
+{
+    border: 5px solid blue;
+    color: brown;
+    padding: 40px;
+}
+.no
+{
+font-size: 80px;
+color: red;
+}
+#nav
+{
+color: seashell;
+}
