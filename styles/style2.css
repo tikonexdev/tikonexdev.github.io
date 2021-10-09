@@ -52,3 +52,21 @@ color: royalblue;
 {
 color: seashell;
 }
+table 
+{
+    
+    width: auto;
+}
+#nav
+{
+    height: 100px;
+    text-align: center;
+}
+#content
+{
+    width: 100%;
+}
+#sidebar
+{
+    width: 150px;
+} 
