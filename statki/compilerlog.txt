@@ -1,0 +1,1 @@
+Error: could not open `C:\Users\cp24\Desktop\mati\jdk\jre\lib\i386\jvm.cfg'
