@@ -36,3 +36,25 @@ ul
     background-color: coral;
     border-color: rosybrown;
 }
+.przech
+    {
+    font-style: italic;
+}
+.pogru
+{
+    font-size: 80px;
+}
+.pod
+{
+    text-decoration: underline;
+}
+.text
+{
+    font-size: small;
+    color: white;
+    margin-top: 10px;
+}
+#config
+{
+    width: 100%;
+}
