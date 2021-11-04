@@ -7,3 +7,32 @@
     font-size: 80px;
     color: blue;
 }
+body
+{
+    background-color: black;
+}
+a:hover
+{
+    transition: 1s;
+    color: red;
+}
+a
+{
+    transition: 1s;
+    color: blue;
+}
+a:visited
+{
+    transition: 1s;
+    color: blue;
+}
+ol
+{
+    background-color: coral;
+    border: salmon;
+}
+ul
+{
+    background-color: coral;
+    border-color: rosybrown;
+}
