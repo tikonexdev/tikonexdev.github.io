@@ -5,7 +5,9 @@ const nazka = ("du[a");
 console.log(nazka)
 let osoba = {
     name:"tiko",
-    age:"2"
+    age:"2",
+    twojastara:"12"
 }
 console.log(osoba.age)
 console.log(osoba.age)
+console.log(osoba.twojastara)

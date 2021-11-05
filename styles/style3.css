@@ -29,12 +29,12 @@ a:visited
 ol
 {
     background-color: coral;
-    border: salmon;
+    border:5px solid salmon;
 }
 ul
 {
     background-color: coral;
-    border-color: rosybrown;
+    border: 5px solid blue;
 }
 .przech
     {
@@ -50,11 +50,18 @@ ul
 }
 .text
 {
-    font-size: small;
-    color: white;
-    margin-top: 10px;
+   margin-top: 10x;
+    color:seashell;
+   font-size: small; 
 }
 #config
 {
     width: 100%;
+}
+#nav
+{
+    color: blue;
+      height: 100px;
+    text-align: center;
+
 }
