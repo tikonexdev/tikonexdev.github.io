@@ -8,6 +8,4 @@ let osoba = {
     age:"2",
     twojastara:"12"
 }
-console.log(osoba.age)
-console.log(osoba.twojastara)
-document.getElementById("xd").innerHTML ="dupa"
+
